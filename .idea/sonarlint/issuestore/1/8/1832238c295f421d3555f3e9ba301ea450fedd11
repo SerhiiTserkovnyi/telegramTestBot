@@ -1,8 +1,5 @@
 
-u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»©‰]8¾ú¦Ç1
-^
-java:S1854"<Remove this useless assignment to local variable "botToken".(„Œ÷©ùÿÿÿÿ8Âú¦Ç1
-O
-java:S1481"-Remove this unused "botToken" local variable.(„Œ÷©ùÿÿÿÿ8Ãú¦Ç1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»©‰]8š¼Ì¦Ç1
+L	java:S106"+Replace this use of System.out by a logger.(°Ççµıÿÿÿÿ8¢¯Î¦Ç1
 L
-java:S1068"/Remove this unused "CONFIG_FILE" private field.(¤ÁÓß8Ãú¦Ç1
+java:S1068	"/Remove this unused "CONFIG_FILE" private field.(¤ÁÓß8¥¼Ì¦Ç1
